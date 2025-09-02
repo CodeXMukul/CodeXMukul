@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Mukul  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mukul74)  
-[![Email](https://img.shields.io/badge/Email-hello%40gmail.com-red?style=flat&logo=gmail)](mailto:mukulkashyapk@gmail.com)  
-
----
 
 ## 🚀 About Me  
 - 💻 Passionate about **Flutter, React, and DevOps**  
@@ -31,5 +27,5 @@
 ---
 
 ## 📬 Connect with Me  
-📧 **Email:** [mukulkashyapk@gmail.com](mailto:mukulkashyapk@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/mukul74)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mukul74)  
+[![Email](https://img.shields.io/badge/Email-mukulkashyapk%40gmail.com-red?style=flat&logo=gmail)](mailto:mukulkashyapk@gmail.com)    
