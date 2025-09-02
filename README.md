@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Mukul  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat&logo=google-chrome)](https://yourwebsite.com)  
-[![Email](https://img.shields.io/badge/Email-hello%40gmail.com-red?style=flat&logo=gmail)](mailto:hello@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mukul74)  
+[![Email](https://img.shields.io/badge/Email-hello%40gmail.com-red?style=flat&logo=gmail)](mailto:mukulkashyapk@gmail.com)  
 
 ---
 
@@ -28,7 +27,6 @@
 ---
 
 ## ✨ Featured Projects  
-- [📱 Student Management System (Flutter)](https://github.com/CodeXMukul/student-management)  
 - [🤖 AI Trip Planner App](https://github.com/CodeXMukul/ai-trip-planner)  
 ---
 
